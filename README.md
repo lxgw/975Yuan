@@ -52,7 +52,7 @@ A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and
 
 ## 相关项目
 ### 975 系列
-- [975 黑体 / 975 Gothic](https://github.com/lxgw/975gothic)
+- [975 黑体 / 975 Hei](https://github.com/lxgw/975hei)
 ### 日系手写字体中文化
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai=font)
