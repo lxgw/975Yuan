@@ -1,4 +1,4 @@
-<img width="1617" height="127" alt="image" src="https://github.com/user-attachments/assets/f27a897e-0978-4df1-bb42-235482979c37" /><!--
+<!--
 > [!IMPORTANT]
 > 本字体已经放弃维护。请您选用原版「思源黑体」或其他作者基于思源黑体衍生的字体。
 -->
@@ -60,9 +60,8 @@ A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and
 ## 相关项目
 ### 975 系列
 - [975 黑体 / 975 Hei](https://github.com/lxgw/975hei)
-### 日系手写字体中文化
-- [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
-- [悠哉字体 / Yozai](https://github.com/lxgw/yozai=font)
+### 更多开源字体
+- [点击此处 / Click Here](https://github.com/lxgw/lxgw/blob/main/fonts.md)
 
 ## 联系作者
 
