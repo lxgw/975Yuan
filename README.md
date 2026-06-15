@@ -24,6 +24,7 @@ A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and
 
 ## 注意事项
 - 这不是一个专业的字体文件。
+- 700W 作为 400W 的粗体，在 Office 等软件中需将字体切换到 400W 再点击「**Ｂ**」按钮切换到粗体调用（当然也可在字体名称框内直接输入「霞鹜975圆体SC 700W」）。
 - 已知问题：
   - ~在中文和西文合并的过程中，思源黑体原有的 OpenType 特性丢失，会导致纵向排版特性无法正常体现。~ *（2020 年 9 月 2 日上传的版本已尝试解决。）*
   - ~字形（glyph）有偏左的问题。~  *（2020 年 9 月 2 日上传的版本已尝试解决。）*
@@ -35,6 +36,10 @@ A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and
 - 免费使用，包括商用，无需付费、告知或标明原作者；
 - 自由分享字体文件，并将其安装在任何软件/设备中；
 - 在此基础上进行修改或二次创作，但改作后的字体也应遵循 SIL OFL 1.1 条款开源发布。
+惟需注意以下条件：
+- 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「霞鹜」「LXGW」「975」，基于本字体二次衍生的字体，名称不可出现「霞鹜」「LXGW」或「975」字样；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用上述名称。
+- 根据 [SIL Open Font License 1.1](https://openfontlicense.org)「许可与条件」中第 1 条的规定， **禁止单独出售字体文件（OTF/TTF 文件）的行为。**
+- 该字体不可在 [SIL Open Font License 1.1](https://openfontlicense.org) 以外的授权许可下发行。
 
 ## 字体下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
@@ -63,5 +68,4 @@ A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and
 - **微信公众号：** 霞鹜 *（ID: lxgwshare）*
 - **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884)
 - **微博：** [@孤鹜先森](https://weibo.com/6624339726)
-- **Email：** calxgw2018@gmail.com srtong2006@126.com
 
