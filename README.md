@@ -9,7 +9,7 @@ A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and
 ## 简介
 本字体最初在 [狮尾圆体](https://github.com/max32002/swei-gothic) 的基础上调整。在保持原有字符宽度的同时，缩小字面至 97.5%，并做少许加粗，使其更适合手机屏幕阅读。
 
-2026 年，该字体汉字部分重制，以 [昭源环方](https://github.com/chiron-fonts/chiron-go-round-tc) 为主，[文渊圆体](https://github.com/takushun-wu/WenYuanFonts) 为辅。
+2026 年 6 月，该字体汉字部分重制，以 [昭源环方](https://github.com/chiron-fonts/chiron-go-round-tc) 为主，[文渊圆体](https://github.com/takushun-wu/WenYuanFonts) 为辅。
 
 西文搭配经过调整处理的 [Baloo 2](https://github.com/EkType/Baloo2) 字体。
 
