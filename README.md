@@ -31,6 +31,7 @@ A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and
   - ~字形（glyph）有偏左的问题。~  *（2020 年 9 月 2 日上传的版本已尝试解决。）*
   - 由于是两个不同标准写法字体的混合字体，因此会存在同一部件设计不统一的情况（如「釒」「心」「欠」等部件），本字体保留这些设计差异，统一部件设计工作量较大。
   - 对于引号、省略号、1 em 横线等中英文共用标点的取舍问题尚未解决。本字体引号采用 Unicode 16.0 标准化变体序列（Standardized Variation Sequences, SVS）在西文引号  `“‘’”` 和中文引号 `“︁‘︁’︁”︁` 之间选择，省略号和 1 em 横线（半破折号）使用西文字体的字符。
+  - 在 Word (Microsoft 365）中，400 字重可能无法正常调用，「975 黑体」无此问题。后续可能会将 700W 像其他字重一样设置为独立的字体家族（Font Family），也可能会采用标准的字重命名方式（即 Regular、Medium、Bold）
 
 ## 授权信息
 本字体依照 SIL Open Font License 1.1 授权许可发布，您可以： 
