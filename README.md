@@ -23,7 +23,7 @@ A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and
 ![](./documentation/975YUAN5.PNG)
 
 ## 注意事项
-- 这不是一个专业的字体文件。
+- 这不是一个专业的字体项目。
 - 由于本字体西文部分原型 [Baloo 2](https://github.com/EkType/Baloo2) 只有从 Regular 到 Black 的较粗字重，因此本字体也只做较粗字重。
 - 700W 作为 400W 的粗体，在 Office 等软件中需将字体切换到 400W 再点击「**Ｂ**」按钮切换到粗体调用（当然也可在字体名称框内直接输入「霞鹜975圆体SC 700W」）。
 - 已知问题：
