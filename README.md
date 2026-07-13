@@ -23,7 +23,7 @@ A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and
 ![](./documentation/975YUAN5.PNG)
 
 ## 注意事项
-- 这不是一个专业的字体文件。
+- 这不是一个专业的字体项目。
 - 由于本字体西文部分原型 [Baloo 2](https://github.com/EkType/Baloo2) 只有从 Regular 到 Black 的较粗字重，因此本字体也只做较粗字重。
 - 700W 作为 400W 的粗体，在 Office 等软件中需将字体切换到 400W 再点击「**Ｂ**」按钮切换到粗体调用（当然也可在字体名称框内直接输入「霞鹜975圆体SC 700W」）。
 - 已知问题：
@@ -34,15 +34,18 @@ A Chinese Font Derived from Source Han Sans, Swei Gothic, Chiron Go Round TC and
   - 在 Word（Microsoft 365）中，400 字重可能无法正常调用，~~「975 黑体」无此问题。~~ 该问题与字体的安装先后顺序有关，如果先安装 700W，再安装 400W，在 Word 中则只会调用先安装的粗体，「975 黑体」亦然。因此在安装过程中，需注意先安装 400W 常规体，后安装 700W 粗体和其他字重。
 
 ## 授权信息
-本字体依照 SIL Open Font License 1.1 授权许可发布，您可以： 
-- 免费使用，包括商用，无需付费、告知或标明原作者；
-- 自由分享字体文件，并将其安装在任何软件/设备中；
-- 在此基础上进行修改或二次创作，但改作后的字体也应遵循 SIL OFL 1.1 条款开源发布。
+本字体是基于开源字体 [思源黑体](https://github.com/Adobe-fonts/Source-han-sans) 及其衍生字体改造而成的衍生项目，遵循 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 开源协议。
+> [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[简体中文译本](https://www.maoken.com/ofl)便于理解，仅供参考。
 
-惟需注意以下条件：
-- 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「霞鹜」「LXGW」「975」，基于本字体二次衍生的字体，名称不可出现「霞鹜」「LXGW」或「975」字样；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用上述名称。
-- 根据 [SIL Open Font License 1.1](https://openfontlicense.org)「许可与条件」中第 1 条的规定， **禁止单独出售字体文件（OTF/TTF 文件）的行为。**
-- 该字体不可在 [SIL Open Font License 1.1](https://openfontlicense.org) 以外的授权许可下发行。
+### 许可
+- 这款字体无论是个人还是企业都可以自由使用，包括商用，无需付费，也无需另行知会原作者。（但如果告知，我会很感激。🫶）
+- 这款字体可以自由传播、分享，可安装于系统、嵌入软件或 APP 中，也可与任何软件捆绑再分发或一并销售。（再分发时需附带 [OFL.txt](./OFL.txt) 全文。）
+- 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样遵守 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 所规定的条款与条件。
+
+### 限制
+- 根据 OFL 1.1「许可与条件」中第 1 条的规定，**禁止单独出售字体文件**（OTF/TTF 格式文件）。
+- 根据 OFL 1.1「许可与条件」中第 3 条的规定，在制作衍生字体时，未经作者明确的书面授权，字体名称不可使用原有字体的「保留名称」。本字体保留名称为：**霞鹜**（霞鶩）、**落霞孤鹜**（落霞孤鶩）、**LXGW**。基于本字体衍生的字体，未经作者（@lxgw）明确书面授权，名称不可出现上述字样。而在没有对字体源代码进行修改的情况下，重新编译的字体，可作为特例继续使用本字体保留名称；仅为网页端渲染优化（Web Font）之目的而对本字体进行子集化（Subsetting）或格式转换（如 WOFF/WOFF2），且不将其作为可安装的桌面字体文件提供给公众下载的情况下，同样适用该特例〔如 [Google Fonts](https://fonts.google.com) 等主流网页字体托管平台，或者 [ZSFT](https://fonts.zeoseven.com/) 等由作者（@lxgw）认可的第三方公益平台；其他平台如需适用此特例，请联系作者（@lxgw）确认〕。同时，根据第 4 条，未经作者（@lxgw）明确书面授权，本字体的任何衍生字体不得以作者（@lxgw）的名义推广、背书或宣传。
+- 根据 OFL 1.1「许可与条件」中第 5 条的规定，该字体不可在 OFL 1.1 以外的授权许可下发行，亦不可将该字体与可能造成许可证冲突的其他协议字体（如 GNU GPL、IPA 等）混合至同一字体文件。
 
 ## 字体下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
